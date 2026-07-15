@@ -1,0 +1,8 @@
+{
+  "name": "FasMarket",
+  "description": "Platform marketplace jual-beli source code, aplikasi, dan software digital aman dengan sistem Escrow di bawah PT Fas Technology Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
